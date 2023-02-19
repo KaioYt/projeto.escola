@@ -5,10 +5,9 @@
 ![image](https://user-images.githubusercontent.com/103225660/219918438-d88d4e07-48e5-4760-bab7-a6924a45b581.png)
 <br>
 ![image](https://user-images.githubusercontent.com/103225660/219918638-1279d907-82b2-49f0-8a5d-113d09c07222.png)
-
 <br>
 ![image](https://user-images.githubusercontent.com/103225660/219918474-de1a115c-cdc8-4830-bf26-3c43100c6df0.png)
-<br>
+
 
 ## Contamos Com uma Pagina de Login bem Moderna e Simples!
 
@@ -18,3 +17,7 @@
 ## Contamos Com Mapa do Site!
 
 ![image](https://user-images.githubusercontent.com/103225660/219918806-166768e9-ee53-49e3-8040-8eb3db2f6830.png)
+
+# Contamos com um Portal de Notícias Bem simples!
+
+![image](https://user-images.githubusercontent.com/103225660/219919579-c89ee07a-53b1-41d6-bd88-b176ea705e04.png)
